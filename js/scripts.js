@@ -2,6 +2,7 @@
 
 
 
+
 $(document).ready(function (){
     $(".header__burger").click(function(){
         //$(".header__logo").toggleClass("header__logo--hide")
@@ -12,7 +13,6 @@ $(document).ready(function (){
     })
 
 })
-
 
 $(document).ready(function(){
     $(".more__items").slick({
